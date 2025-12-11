@@ -1,7 +1,7 @@
 <h1 align="center">👋 Opa, oi! Eu me chamo Matheus Patricio!</h1>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/assets/killua2.gif" alt="ilustração de um computador" width="300px" align="right" style="margin-left: 20px;">
+ 
 
   <p align="left">
     Sou <strong>Engenheiro de Software</strong> e <strong>Founder da Evoxity</strong>, uma empresa de tecnologia focada em criação de produtos, serviços web e automação com ferramentas de inteligência artificial. Nosso objetivo é criar soluções poderosas para impulsionar negócios, automatizar processos e transformar ideias em aplicações modernas, rápidas e escaláveis.
