@@ -84,7 +84,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`,`Supabase`, `PHP`, `Post
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Patricio-dev&bg_color=1b27b3&color=f0f8ff&line=b0c4de&point=6495ed&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Patricio-dev&bg_color=0b1220&color=8fa2ff&line=1b27b3&point=8fa2ff&area=true&hide_border=true"
     alt="Gráfico de atividade"
   />
 </p>
