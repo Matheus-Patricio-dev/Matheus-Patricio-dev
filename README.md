@@ -50,7 +50,24 @@
 **Software Engineer** \
 [**Launcher Studio**](https://www.launcherstudio.com.br/) • Full-time \ 
 Out 2025 - Jan - 2025 \
-Linguagens & Tecnologias: `Node`, `Adonis`, `Flutter`, `JavaScript`, `React`, `PHP`,`MySQL`, `Postgres`,\
+
+<br/>
+<br/>
+
+- Desenvolvi e integrei sistema de localização em tempo real para empresa de gestão de frotas, permitindo o
+  time de suporte monitorar veículos e responder a incidentes rapidamente usando dados em tempo real.
+- Contribuí para o desenvolvimento de bibliotecas JavaScript para consumo de API do Mercado Livre e
+  Shopee.
+- Desenvolvi páginas utilizando **React + TypeScript** em ERP, garantindo responsividade, escalabilidade e
+  boa experiência do usuário.
+
+<br/>
+
+**Linguagens & Tecnologias:**  
+`Node` · `Adonis` · `Flutter` · `JavaScript` · `React` · `PHP` · `MySQL` · `Postgres`
+
+<br/>
+
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Freelancer" src="https://github.com/user-attachments/assets/3f52e567-4ebb-4e8c-bca6-d41680d1acea" />]((https://matheus-patricio.vercel.app/))
@@ -59,9 +76,21 @@ Linguagens & Tecnologias: `Node`, `Adonis`, `Flutter`, `JavaScript`, `React`, `P
 
 **Desenvolvedor de software Freelancer** \
 [**Freelancer**](https://matheus-patricio.vercel.app/) • Freelancer \ 
-Jan 2025 - Out 2025 \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`,`Supabase`, `PHP`, `Postgres`, `Next`,\
+Jan 2025 - Atualmente \
 <br/>
+
+- Desenvolvi APIs REST com **Java 17+**, Spring Boot, JPA e Hibernate integrados ao Postgres.
+- Auxiliei no desenvolvimento e implementação de APIs REST para **gateways de pagamento**, viabilizando
+  transações financeiras para empresas de intermediação B2C.
+- Desenvolvi **Sistema ERP** para gestão de clientes, profissionais e financeiro, com foco em uso B2B.
+
+<br/>
+
+**Linguagens & Tecnologias:**  
+`JavaScript` · `Node` · `React` · `Supabase` · `PHP` · `Postgres` · `Next.js`
+
+<br/>
+
 <hr/>
 
 
