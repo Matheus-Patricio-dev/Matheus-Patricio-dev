@@ -1,189 +1,383 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Matheus%20Patricio&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=1b27b3"
-  />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheuspatricio-dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
-  </a>
-
-  <a href="mailto:contato.matheuspatricio@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://matheus-patricio.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Matheus-Patricio-dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheus-Patricio-dev&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/Matheus-Patricio-dev?label=Followers" />
-  <img src="https://img.shields.io/github/stars/Matheus-Patricio-dev?label=Stars" />
-</p>
-
-<hr/>
-
-<h2>🧠 Sobre mim</h2>
-
-<ul>
-  <li>Me chamo Matheus Patricio, sou <b>Engenheiro de Software / Full Stack</b> com foco em <b>Java 17+ (Spring Boot)</b> e <b>React/Next.js</b>.</li>
-  <li>Formado em <b>Análise e Desenvolvimento de Sistemas.</b> 
-  <li><b>+2</b> e experiência em Desenvolvimento de Software Full Stack.</li>
-  <li><b>Backend:</b> Experiência em Java com Spring boot, JPA/Hibernate, Node.js, Bun.</li>
-  <li><b>Frontend:</b> Experiência em React, Next.js, TailwindCss, Daisy UI, Material UI</li>
-  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
-  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
-  <li><b>Local:</b> Rio de Janeiro, RJ — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
-</ul>
-<hr/>
-
-<h2>Experiência Profissional</h2>
-
-[<img align="left" height="94px" width="94px" alt="Launcher Studio" src="https://github.com/user-attachments/assets/39480c2c-e50c-42ed-bfd6-8f2d15f449a9"/>](https://www.launcherstudio.com.br/)
-
-
-**Software Engineer** \
-[**Launcher Studio**](https://www.launcherstudio.com.br/) • Full-time \ 
-Out 2025 - Jan - 2025 \
-
-<br/>
-<br/>
-
-- Desenvolvi e integrei sistema de localização em tempo real para empresa de gestão de frotas, permitindo o
-  time de suporte monitorar veículos e responder a incidentes rapidamente usando dados em tempo real.
-- Contribuí para o desenvolvimento de bibliotecas JavaScript para consumo de API do Mercado Livre e
-  Shopee.
-- Desenvolvi páginas utilizando **React + TypeScript** em ERP, garantindo responsividade, escalabilidade e
-  boa experiência do usuário.
-
-<br/>
-
-**Linguagens & Tecnologias:**  
-`Node` · `Adonis` · `Flutter` · `JavaScript` · `React` · `PHP` · `MySQL` · `Postgres`
-
-<br/>
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Freelancer" src="https://github.com/user-attachments/assets/3f52e567-4ebb-4e8c-bca6-d41680d1acea" />]((https://matheus-patricio.vercel.app/))
-
-
-
-**Desenvolvedor de software Freelancer** \
-[**Freelancer**](https://matheus-patricio.vercel.app/) • Freelancer \ 
-Jan 2025 - Atualmente \
-<br/>
-
-- Desenvolvi APIs REST com **Java 17+**, Spring Boot, JPA e Hibernate integrados ao Postgres.
-- Auxiliei no desenvolvimento e implementação de APIs REST para **gateways de pagamento**, viabilizando
-  transações financeiras para empresas de intermediação B2C.
-- Desenvolvi **Sistema ERP** para gestão de clientes, profissionais e financeiro, com foco em uso B2B.
-
-<br/>
-
-**Linguagens & Tecnologias:**  
-`JavaScript` · `Node` · `React` · `Supabase` · `PHP` · `Postgres` · `Next.js`
-
-<br/>
-
-<hr/>
-
-
-<h2>📊 Visão geral do GitHub</h2>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Matheus-Patricio-dev&show_icons=true&hide_border=false&theme=github_dark&"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Patricio-dev&layout=compact&hide_border=false&theme=github_dark"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
-<h2>📈 Atividade & gráficos</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Patricio-dev&bg_color=0b1220&color=8fa2ff&line=1b27b3&point=8fa2ff&area=true&hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
-
-<hr/>
-
-<h2>🧩 Stack tecnológica</h2>
 
 <div align="center">
-  <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,golang" />
 
-  <h4>🧱 Backend & Arquitetura</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,bun" />
+# Matheus Patricio
 
-  <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
+### Fullstack Developer · IoT · AI · Automation
 
-  <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,redis" />
+<p>
+  <a href="https://github.com/matheus-Patricio-dev">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/matheuspatricio-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato.matheuspatricio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+<p>
+  <strong>Rio de Janeiro, Brasil</strong> · Disponível para remoto
+</p>
+
 </div>
 
-<h2>🌍 Aberto a oportunidades</h2>
+---
 
-<pre>
-Cargos:
-- Engenheiro de Software
-- Desenvolvedor Full Stack
-- Backend (Java / Spring Boot / Node)
-- Frontend (React / Next.js)
+## Sobre mim
 
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
+Sou **Desenvolvedor Fullstack** com mais de 2 anos de experiência, atuando principalmente na construção de sistemas para **Indústria 4.0, IoT, Inteligência Artificial e automação de processos**.
 
-Local:
-Rio de Janeiro, RJ — Brasil
-</pre>
+Tenho experiência desde a comunicação e processamento de dados de sensores industriais até a construção de **APIs, dashboards em tempo real, agentes de IA e aplicações web**.
 
-<hr/>
+Atualmente, trabalho com arquiteturas envolvendo **Python, Java, React, PostgreSQL, MQTT, LoRaWAN, n8n e LLMs**, buscando transformar problemas operacionais em soluções escaláveis e automatizadas.
 
-<h2>💬✨ Vamos nos conectar</h2>
+---
 
-<p align="center">
-  Cada link abre uma camada diferente da minha jornada:
-</p>
+## O que eu faço
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheuspatricio-dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Matheus-Patricio-dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://matheus-patricio.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Site%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:contato.matheuspatricio@gmail.com">contato.matheuspatricio@gmail.com</a><br>
-  🌍 <b>Disponível para trabalho remoto global</b>
-</p>
+### Backend & APIs
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Obrigado!&fontColor=FFFFFF&fontSize=34&color=1b27b3"
-  />
-</p>
+Construção de APIs REST, microsserviços e integrações utilizando:
+
+* Java & Spring Boot
+* Python & FastAPI
+* Node.js
+* PostgreSQL
+* Redis
+* REST APIs
+* JWT
+* Hibernate & JPA
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend
+
+Desenvolvimento de aplicações web modernas com foco em experiência e escalabilidade:
+
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Material UI
+* Chart.js
+* HTML & CSS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### IoT & Indústria 4.0
+
+Desenvolvimento de soluções para monitoramento e processamento de dados industriais:
+
+* MQTT
+* LoRaWAN
+* ChirpStack
+* Everynet
+* WEGnology / Losant
+* Pipelines de dados
+* Dashboards em tempo real
+
+</td>
+
+<td width="50%" valign="top">
+
+### Inteligência Artificial & Automação
+
+Integração de IA em produtos e processos:
+
+* GPT
+* Claude
+* Gemini
+* n8n
+* WhatsApp API
+* Meta Graph API
+* Evolution API
+* Automação de processos
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experiência
+
+<div align="center">
+
+<table>
+<tr>
+<td width="80">
+
+<img width="324" height="324" alt="image" src="https://github.com/user-attachments/assets/ac2f6ca9-f75c-479a-942c-88075c088576" />
+
+
+
+</td>
+<td align="left">
+
+### Horizon Space - Sonda
+
+**Engenheiro de Software | Inteligência Artificial & Machine Learning**
+`Ago/2026 — Atualmente` · Rio de Janeiro, RJ
+
+</td>
+</tr>
+</table>
+
+</div>
+
+* Desenvolvi **pipelines de integração em Python** com APIs e fontes de dados em tempo real, estruturando fluxos de ingestão e processamento para aplicações de **Machine Learning**.
+* Desenvolvi aplicações em **Java** utilizando **LangChain**, criando fluxos de comunicação entre usuários e sistemas de **Inteligência Artificial**.
+* Implementei processos de **tratamento, transformação e preparação de dados em Python** para utilização em modelos e aplicações de **Machine Learning**.
+* Integrei **APIs REST, serviços em Python e aplicações Java**, automatizando fluxos de dados e comunicação entre diferentes componentes da arquitetura.
+* Atuei no desenvolvimento de soluções com **Java, Python, LangChain e APIs**, aplicando conceitos de **IA, Machine Learning e processamento de dados em tempo real**.
+
+
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="80">
+
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/6c5de094-e801-4566-8e94-8ddda4450a0c" />
+
+
+</td>
+<td align="left">
+
+### AS3 Engenharia
+
+**Desenvolvedor Fullstack**
+`Fev/2026 — Atualmente` · Rio de Janeiro, RJ
+
+</td>
+</tr>
+</table>
+
+</div>
+
+* Desenvolvi arquitetura de comunicação em Python para conversores IoT, viabilizando a integração de mais de **45 sensores industriais via MQTT**.
+* Desenvolvi agente de Inteligência Artificial utilizando **n8n + GPT + WhatsApp** para monitoramento de sensores IoT.
+* Reduzi em aproximadamente **85% o custo do projeto** através da nova arquitetura do agente.
+* Projetei infraestrutura PostgreSQL com **TimescaleDB** para armazenamento de dados de sensores IoT.
+* Desenvolvi sistema automatizado de geração de propostas comerciais em PDF utilizando **React, Tailwind CSS e jsPDF**.
+* Implementei dashboards IoT em tempo real utilizando **Chart.js + WEGnology**.
+* Atuei em pipelines de dados **LoRaWAN**, integrando ChirpStack e Everynet.
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="80">
+
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/3ff16ce0-2829-44a0-966c-bd3b6ec7784d" />
+
+
+</td>
+<td align="left">
+
+### Launcher Studio
+
+**Software Engineer**
+`Out/2025 — Jan/2026` · Rio de Janeiro, RJ
+
+</td>
+</tr>
+</table>
+
+</div>
+
+* Desenvolvi e integrei sistema de **localização em tempo real** para uma empresa de gestão de frotas, permitindo o monitoramento de veículos e resposta rápida a incidentes.
+* Contribuí para o desenvolvimento de **bibliotecas JavaScript** para consumo das APIs do Mercado Livre e Shopee.
+* Desenvolvi páginas de ERP utilizando **React + TypeScript**, com foco em responsividade, escalabilidade e experiência do usuário.
+
+**Tecnologias:**
+`Node` · `Adonis` · `Flutter` · `JavaScript` · `React` · `PHP` · `MySQL` · `Postgres`
+
+<a href="https://www.launcherstudio.com.br/">
+  <img src="https://img.shields.io/badge/Launcher_Studio-111111?style=flat-square&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="80">
+
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/dcc682d8-1efe-4c00-9d05-80066f9e3609" />
+
+
+</td>
+<td align="left">
+
+### Desenvolvedor Fullstack Independente
+
+**Freelancer / Autônomo**
+`Fev/2024 — Atualmente` · Rio de Janeiro, RJ
+
+</td>
+</tr>
+</table>
+
+</div>
+
+* Desenvolvi e integrei sistema de **localização em tempo real** para empresa de gestão de frotas.
+* Desenvolvi bibliotecas JavaScript para integração com APIs de **Mercado Livre e Shopee**.
+* Desenvolvi automação de controle financeiro pessoal via **WhatsApp + Gemini**.
+* Desenvolvi APIs REST para **gateways de pagamento**, viabilizando transações B2C para empresas clientes.
+* Integrei soluções com provedores como **Zoop, Barte e Firebase**.
+
+**Tecnologias:**
+`Java` · `Spring Boot` · `JPA` · `Hibernate` · `JavaScript` · `Node.js` · `React` · `Postgres`
+
+---
+
+## Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-222222?style=flat-square\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-444444?style=flat-square\&logo=javascript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square\&logo=springboot\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square\&logo=node.js\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-444444?style=flat-square\&logo=hibernate\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-555555?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat-square\&logo=typescript\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-444444?style=flat-square\&logo=mui\&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-555555?style=flat-square\&logo=chartdotjs\&logoColor=white)
+
+### IoT & Automation
+
+![MQTT](https://img.shields.io/badge/MQTT-111111?style=flat-square\&logo=mqtt\&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-222222?style=flat-square)
+![ChirpStack](https://img.shields.io/badge/ChirpStack-333333?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-444444?style=flat-square\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-555555?style=flat-square\&logo=openai\&logoColor=white)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-222222?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-444444?style=flat-square\&logo=redis\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-555555?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-666666?style=flat-square\&logo=docker\&logoColor=white)
+
+</div>
+
+As principais tecnologias listadas acima fazem parte da seção de habilidades técnicas do currículo.
+
+---
+
+## Arquiteturas & práticas
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    APPLICATIONS                         │
+│                                                         │
+│       React · TypeScript · JavaScript · Tailwind        │
+└────────────────────────┬────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│                      BACKEND                            │
+│                                                         │
+│       Java · Spring Boot · FastAPI · Node.js             │
+│       REST · JWT · Microsserviços · OpenAPI              │
+└────────────────────────┬────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│                    DATA LAYER                           │
+│                                                         │
+│       PostgreSQL · TimescaleDB · MySQL · Redis           │
+└────────────────────────┬────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│                  IoT / AUTOMATION                       │
+│                                                         │
+│ MQTT · LoRaWAN · ChirpStack · WEGnology · n8n · LLMs   │
+└─────────────────────────────────────────────────────────┘
+```
+
+Também aplico princípios como **SOLID, Clean Code, Repository Pattern, Code Review** e metodologias como **Scrum e Kanban** no desenvolvimento.
+
+---
+
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+
+Universidade do Norte do Paraná — UNOPAR
+2023 — 2025
+
+---
+
+## Certificações
+
+* **AWS Certified Cloud Practitioner** — 2025
+* **Software Architecture & System Design** — Udemy, 2026
+
+---
+
+## Idiomas
+
+**Português** — Nativo
+**Inglês** — Avançado (C1)
+
+---
+
+<div align="center">
+
+### Vamos construir algo interessante?
+
+<br>
+
+<a href="mailto:contato.matheuspatricio@gmail.com">
+  <img src="https://img.shields.io/badge/ENTRAR_EM_CONTATO-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/matheuspatricio-dev">
+  <img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Fullstack Development · IoT · Artificial Intelligence · Automation</sub>
+
+</div>
